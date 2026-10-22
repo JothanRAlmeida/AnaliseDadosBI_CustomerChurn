@@ -1,2 +1,3 @@
 - Foram criadas novas colunas utilizando o Power Query e linguagem M, como: Tempo de Relacionamento (0-6, 7-12, 13-24, 25-48, 49-72), Faixa de Mensalidade (0-30, 31-60, 61-90, 91-120) e Tipo de Serviço (Somente Telefone, Somente Internet e Telefone + Internet) que serão utilizadas para analisar o comportamento dos clientes que cancelam .
 - Foram cridas medidas DAX como Clientes Ativos, Clientes Cancelados, Receita Mensal Associada ao Cancelamento, Tava Churn, Tempo Médio Cancelamento, Tempo Médio Ativo e Total de Clientes.
+- Foram criados os gráficos que comparam a Duração do Contrato, Tipo de Serviço, Serviço de Internet, Segurança Online, Suporte Técnico, Faixa de Mensalidade e Tempo de Relacionamento ao Churn.
