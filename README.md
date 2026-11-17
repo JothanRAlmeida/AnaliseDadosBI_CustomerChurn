@@ -165,4 +165,4 @@ Como evolução do projeto, algumas análises podem ser incorporadas:
 
 Abaixo está a visualização da página inicial do projeto:
 
-![Dashboard de Análise de Churn](Images/dashboard-churn.png)
+![Dashboard de Análise de Churn](Imagens/dashboard-churn.png)
